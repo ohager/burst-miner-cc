@@ -2,7 +2,7 @@
 Visual Control Center for Burstcoin Mining
 
 > # UPDATE
-> Update - This project will be continued. I already architected the things, and made some feasability studies and tech choices, while I was upgrading the (burst-autoplotter)[https://github.com/ohager/burst-autoplotter]
+> Update - This project will be continued. I already architected the things, and made some feasability studies and tech choices, while I was upgrading the [burst-autoplotter](https://github.com/ohager/burst-autoplotter)
 
 > There will be stuff soon
 

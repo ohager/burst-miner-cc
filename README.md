@@ -1,7 +1,9 @@
 # burst-miner-cc
 Visual Control Center for Burstcoin Mining
 
-> # HANG TIGHT
+> # UPDATE
+> Update - This project will be continued. I already architected the things, and made some feasability studies and tech choices, while I was upgrading the (burst-autoplotter)[https://github.com/ohager/burst-autoplotter]
+
 > There will be stuff soon
 
 This will be a browser-based dashboard for Burstcoin mining. 
